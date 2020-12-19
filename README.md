@@ -14,7 +14,7 @@ A lightweight rainmeter skin to visualize query information of a minecraft serve
 
 ### Manual
 
-- [Download](https://github.com/AlphaCortex/MCServerStatus/archive/master.zip) the whole repository and extract the folder to your Rainmeter skins folder `%USER%\Documents\Rainmeter\Skins\`
+- [Download](https://github.com/AhmetAkyuez/MCServerStatus/archive/main.zip) the whole repository and extract the folder to your Rainmeter skins folder `%USER%\Documents\Rainmeter\Skins\`
 
 #### Requirements
 
