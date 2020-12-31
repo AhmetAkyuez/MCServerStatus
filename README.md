@@ -9,11 +9,11 @@ A lightweight rainmeter skin to visualize query information of a minecraft serve
 ## Usage
 
 - By **double left clicking** you can enter the servername, which can be an IP address `123.456.789.123` or Host name `minecraftserver.com`; Server port can be specified e.g. `minecraftserver.com:25570`
-  <img src="https://i.imgur.com/3ACvwoS.png" width="300" />
+  - <img src="https://i.imgur.com/3ACvwoS.png" width="300" />
 - By **scrolling** you can change the font size
-  <img src="https://i.imgur.com/GEuC1A0.gif" width="300" />
+  - <img src="https://i.imgur.com/GEuC1A0.gif" width="300" />
 - By **right clicking** you can easily change the update rate
-  <img src="https://i.imgur.com/xeKdR4p.png" width="400" />
+  - <img src="https://i.imgur.com/xeKdR4p.png" width="400" />
 - By middle clicking you do a full reload of the skin
 
 ---
