@@ -37,7 +37,7 @@ A lightweight rainmeter skin to visualize query information of a minecraft serve
 ### Known issues
 
 - Because of changes in V3, the status command occasionally timeouts
-- The `mcstatus servername json` command fails on servers like `hypixel.net / 172.65.238.120`
+- The `mcstatus servername json` command fails on servers like `hypixel.net`
   > - Afaik this is a problem of the [mcstatus](https://github.com/Dinnerbone/mcstatus) python script
   > - Possible circumvention for ping information: use Run command: `ping 172.65.238.120`
 
